@@ -4,7 +4,7 @@ A modern, responsive portfolio website showcasing my web development projects an
 
 ## Live Demo
 
-Visit the live website: [Eyup Aslangiri Portfolio](https://eyupsaslangiri11.github.io/portfolio)
+Visit the live website:   [Eyup Aslangiri Portfolio](https://eyupsaslangiri11.github.io/Portfolio/)
 
 ## Features
 
